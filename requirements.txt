@@ -3,7 +3,7 @@ TgCrypto==1.2.4
 python-dotenv 
 
 telegraph[aio]
-pyrate_limiter 
+
 cachetools 
 aiofiles
 psutil
